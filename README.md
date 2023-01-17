@@ -4,4 +4,6 @@ server based express.js application written in Javascript and using insomnia to 
 
 Hope you enjoy the video!
 
-https://youtu.be/6rbZv0DBVgg
+https://github.com/Stingxming/Note-Taker
+
+https://www.youtube.com/watch?v=WYtyJWmNwCk
